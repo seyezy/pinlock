@@ -1,16 +1,51 @@
-# pinlock
+# PinLock
+Welcome to PinLock, your personal security companion designed to keep your device and data safe. With fast and reliable PIN-based locking, PinLock offers a seamless way to protect your privacy while staying in control of your phone’s access—anytime, anywhere.
 
-A new Flutter project.
+# Features
 
-## Getting Started
+- PIN-based Locking
+   Secure your device or app access using a custom 4-6 digit PIN.
 
-This project is a starting point for a Flutter application.
+ - Fingerprint / Face Unlock Support
+   Seamlessly unlock using biometric authentication (where supported).
 
-A few resources to get you started if this is your first Flutter project:
+ - Intruder Detection
+   Capture a photo after multiple failed unlock attempts.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ - Custom Lock Screens
+   Choose from a variety of themes or create your own custom lock screen.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - Auto-Lock Timer
+   Automatically lock after a set period of inactivity.
+
+ - Emergency Access
+   Add trusted contacts or shortcuts for emergency access.
+
+ - Haptic Feedback & Animations
+   Enjoy smooth tactile feedback and sleek animations while unlocking.
+
+ - Offline Mode
+   Full functionality without internet access.
+
+ - Lightweight & Battery Efficient
+   Built with performance in mind to minimize resource usage.
+
+ - Secure Storage
+   Sensitive data stored using encrypted local storage (e.g., Flutter Secure Storage).
+
+# Getting Started
+Prerequisites
+
+ - Flutter (for mobile app development)
+ - Fire
+
+# Installation
+Install dependencies:
+
+ - flutter pub get
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+# Contact
+For questions, suggestions, or issues, feel free to contact us at seyezy@gmail.com.
